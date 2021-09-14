@@ -2,6 +2,7 @@
 I'm Kevin Morales
 ### Front-end Developer student at KYH Stockholm
 
+You might find more projects @ my codepen https://codepen.io/kevmorales
 
 ### Languages and tools
 
