@@ -1,6 +1,8 @@
 # Hola!
 I'm Kevin Morales
-### Front-end Developer student at KYH Stockholm
+### Front-end Developer 
+
+Been part of developing the app for Sveriges socialdemokratiska ungdomsförbund (ssuplus), nordkap.com, retrievergroup.com, https://thernfrst.io/ (saab) and https://astaagency.se/
 
 You might find more projects @ my codepen https://codepen.io/kevmorales
 
@@ -12,6 +14,8 @@ You might find more projects @ my codepen https://codepen.io/kevmorales
 - React.js
 - Node.js
 - Git
+- PhP
+- Typescript
 - Figma
 - Photoshop
 
@@ -23,5 +27,5 @@ You might find more projects @ my codepen https://codepen.io/kevmorales
  
 ### What is in the scope right now?
 - 🔭 I’m working on rebuilding my personal portfolio
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning more about AI, chatgpt and custom commands
 
